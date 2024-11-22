@@ -39,19 +39,6 @@ The dataset consists of customer data with the following attributes:
 
 This project focuses on **Annual Income** and **Spending Score** as clustering features.
 
-## Installation Guide
-
-1. **Clone the Repository**:  
-    ```bash
-    git clone https://github.com/your-username/customer-segmentation.git
-    cd customer-segmentation
-    ```  
-
-2. **Install Dependencies**:  
-    Install the required Python packages:  
-    ```bash
-    pip install -r requirements.txt
-    ```  
 
 ## Usage
 
